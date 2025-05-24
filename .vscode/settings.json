@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gezegen.c": "c",
+        "uzayaraci.h": "c",
+        "kisi.h": "c",
+        "simulasyon.h": "c",
+        "gezegen.h": "c",
+        "cuce_gezegen.h": "c",
+        "locale.h": "c",
+        
+    }
+}
